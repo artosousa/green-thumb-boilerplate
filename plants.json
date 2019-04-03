@@ -18,7 +18,7 @@
 			"growth" : "Height 30 in/75 cm.",
 			"poisonous" : "cats and dogs."
 		},
-		"image": "./flowers/amaryllis-red-white-flowers.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/amaryllis-red-white-flowers.jpg"
 	},
 	
 	{
@@ -40,7 +40,7 @@
 			"growth" : "4ft tall or more if not pruned.",
 			"poisonous" : "cats and dogs."
 		},
-		"image": "./flowers/angel_wing_begonia.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/angel_wing_begonia.jpg"
 	},
 
 	{
@@ -62,7 +62,7 @@
 			"growth" : "Height 2 - 3ft",
 			"poisonous" : "No"
 		},
-		"image": "./flowers/beach_spider_lily_img1.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/beach_spider_lily_img1.jpg"
 	},
 
 	{
@@ -84,7 +84,7 @@
 			"growth" : "Height 6ft (can be kept to 3ft indoors).",
 			"poisonous" : "Mildly toxic for cats and dogs"
 		},
-		"image": "./flowers/Strelitzia_Reginae_Flower_img1.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/Strelitzia_Reginae_Flower_img1.jpg"
 	},
 	{
 		"id": 5,
@@ -105,7 +105,7 @@
 			"growth" : "24in (60cm) in height",
 			"poisonous" : "No"
 		},
-		"image": "./flowers/Impatiens-walleriana.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/Impatiens-walleriana.jpg"
 	},
 	{
 		"id": 6,
@@ -126,7 +126,7 @@
 			"growth" : "24in tall",
 			"poisonous" : "No"
 		},
-		"image": "./flowers/Impatiens-walleriana.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/Impatiens-walleriana.jpg"
 	},
 	{
 		"id": 7,
@@ -147,7 +147,7 @@
 			"growth" : "Height 18 in/45 cm.",
 			"poisonous" : "No"
 		},
-		"image": "./flowers/blushing_bromeliad1.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/blushing_bromeliad1.jpg"
 	},
 	{
 		"id": 8,
@@ -168,7 +168,7 @@
 			"growth" : "3ft (90cm) in height.",
 			"poisonous" : "cats and dogs."
 		},
-		"image": "./flowers/calla-lily.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/calla-lily.jpg"
 	},
 	{
 		"id": 9,
@@ -189,7 +189,7 @@
 			"growth" : "Diameter (micro - 3in) - (large - 16in)",
 			"poisonous" : "No"
 		},
-		"image": "./flowers/african-violet.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/african-violet.jpg"
 	},
 	{
 		"id": 10,
@@ -210,6 +210,6 @@
 			"growth" : "Height 24 in/60 cm",
 			"poisonous" : "Cats and Dogs"
 		},
-		"image": "./flowers/belladonna-lilly.jpg"
+		"image": "https://raw.githubusercontent.com/artosousa/green-thumb-boilerplate/master/flowers/belladonna-lilly.jpg"
 	}
 ]
