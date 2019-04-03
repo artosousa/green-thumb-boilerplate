@@ -1,0 +1,173 @@
+[
+	{
+		"id": 1,
+		"name": "Amaryllis ",
+		"about": "Amaryllis hippeastrum are bulb flowering type plants that produce a cluster of attractive trumpet like flowers in different color variation.",
+		"care" : {
+			"temp" : "The amaryllis within the growing period (winter - spring) prefers temperatures of 70 - 75F°f (21 - 24°c) and from September - November (or early December) 55°f (13°c). After the plant as flowered the temperature can be kept at around 70 - 75F°f (21 - 24°c) which will keep the flower healthier longer.",
+			"light" : "Bright light without too much direct sunlight is preferable.",
+			"watering" : "During the growing and flowering period, water when the top inch of the soil becomes dry. Once the leaves are cut away you can stop watering for about 8 – 10 weeks (dormant period) or water sparingly until new growth appears. When new leaves appear water frequently again when the top inch of soil becomes dry. Overwatering may cause the bulb to rot.",
+			"soil" : "You can use equal part perlite and peat or two parts loam soil and one part perlite. Your local garden store will offer other suitable options as well.",
+			"repotting" : "Your hippeastrum can be re-potted if the bulb seems to have outgrown the pot or every 2 years just before the dormant growing period (Nov - Dec). The pot size needs to be approximatively 2 inches wider each side of the bulb.",
+			"ferilizer" : "After the dormant period (Nov -Dec) begin feeding with a liquid fertilizer once every 2 weeks once you begin to see leaf shoots appearing. Continue until the leaves are cut down ready for the dormant period (Sept - Nov).",
+			"humidity" : "Normal room humidity is fine."
+		},
+		"facts": {
+			"origin" : "South America",
+			"names" : "Amaryllis (common). Hippeastrum (botanical/scientific).",
+			"growth" : "Height 30 in/75 cm.",
+			"poisonous" : "cats and dogs."
+		},
+		"image": "./flowers/amaryllis-red-white-flowers.jpg"
+	},
+	
+	{
+		"id": 2,
+		"name": "Angel Wing Begonia  ",
+		"about": "The Angel wing begonia is a flowering species from a large family of plants (2000 or more and many more hybrids), named Begoniaceae.",
+		"care" : {
+			"temp" : "Average room temperatures of 55 - 75°F (13 - 24°C) are best suited for Begonias...and no less than 55°F.",
+			"light" : "This plant is not in favor of direct sun. This is because the leaves are sensitive to getting scorched. In their natural habitat most Begonias grow under cover. Bright light is best and during the winter some morning or late afternoon sun is fine.",
+			"watering" : "From spring - fall you will need to water this plant often, especially while it's in bloom. Keep the soil moist to the touch slightly, but do not overwater. During winter cut down watering and allow the top soil to become dry to the touch before watering again.",
+			"soil" : "African Violet ready made potting soil works well. Otherwise use a rich soilless well draining potting mix.",
+			"repotting" : "While the plant is young I would repot every year in a pot slightly bigger. Once it matures every 2 years. Clay pots work well because they tend to release moisture easier, preventing root problems from stagnant water. An added benefit of using a clay pot is it will keep the plant more sturdy once it matures in height and prevent it from toppling over.",
+			"ferilizer" : "From spring - fall feed the plant while the soil is damp every 2 weeks. Use a high potassium diluted feed of 5-10-5. This seems to work well in keeping the leaves and flowers looking healthy.",
+			"humidity" : "This plant enjoys a good amount of humidity. You can mist around the plant area, but I advise you not to water the leaves in case it causes spots or patches on them."
+		},
+		"facts": {
+			"origin" : "South America.",
+			"names" : "Angel wing begonia (common). Begonia coccinea (botanical/scientific)",
+			"growth" : "4ft tall or more if not pruned.",
+			"poisonous" : "cats and dogs."
+		},
+		"image": "./flowers/angel_wing_begonia.jpg"
+	},
+
+	{
+		"id": 3,
+		"name": "Beach Spider Lady",
+		"about": "This amazing bulb based plant beach spider lily enjoys environments that are downright aquatic and easy to maintain. These one of a kind flowers will look like spiders crawling across your flower's shelving unit all summer long, and provide your home with a sweet vanilla scent.",
+		"care" : {
+			"temp" : "The Beach Spider Lily is capable of withstanding temperatures that drop into the 40ºF (4°C) range, and as high as 90ºF (32ºC). They must be protected against frosts by all means, or the plant will die back to the bulb stage.",
+			"light" : "This plant requires partial shade to full sun. Make certain it can get enough light from the pot location.",
+			"watering" : "Hymenocallis littoralis demands wet conditions all year long. The bulbs can be started in nothing except water, but need to be moved to soil once they begin to sprout. Soil should be kept moist, but never soggy. Do not allow standing water in the saucer underneath.",
+			"soil" : "These plants prefer a standard potting soil mixed with bark or pumice at a 1:1 ratio. The pH of the soil chosen needs to be between 5.0 and 7.5 for the continued health of the plant.",
+			"repotting" : "Every two years, this plant requires re-potting and an infusion of new soil. Move the plant to a size larger pot, and mix in new soil to fill the gaps. This should be done when the plant is not flowering.",
+			"ferilizer" : "You may fertilize your plant once every two weeks with a diluted balanced fertilizer. Seaweed based fertilizers have been reported to produce the best results.",
+			"humidity" : "This plant is happy with normal air humidity, as long as its soil is properly moist. If the soil has been allowed to dry out, the leaves and flowers may be misted with a spray bottle to combat dehydration effects."
+		},
+		"facts": {
+			"origin" : "South Mexico and Central America",
+			"names" : "Spider Lily (common). Hymenocallis littoralis (botanical/scientific)",
+			"growth" : "Height 2 - 3ft",
+			"poisonous" : "No"
+		},
+		"image": "./flowers/beach_spider_lily_img1.jpg"
+	},
+
+	{
+		"id": 4,
+		"name": "Bird Of Paradise ",
+		"about": "The Bird of Paradise is delightfully easy to care for and enjoys warm, balmy days year round. The stunning flowers of this unique plant make it popular in gardens around the globe.",
+		"care" : {
+			"temp" : "The Bird of Paradise requires moderate temperatures year-round. They can tolerate temperatures as low as 55 ºF (13 ºC), but prefer to remain in the 70-90 ºF (21-32 ºC) range. Above 70 ºF (21 ºC), care instructions do change slightly.",
+			"light" : "This plant demands bright, yet indirect, sunlight year-round. Too much sunlight will injure the flowers. Above 70 ºF (21 ºC), this plant should be relocated to a partial shade environment in order to avoid sunburn on the flowers.",
+			"watering" : "During the summer months, the soil should be kept moist through regular watering. Throughout the fall and winter, permit the soil to almost dry out before watering. Never permit water to stand in the saucer underneath the plant.",
+			"soil" : "Strelitzia reginae does well in almost any type of soil. A standard potting soil will suffice for this plant's continued health.",
+			"repotting" : "Check the roots of this plant in the late winter. If the roots appear to be cramped in the current container, have someone assist you in moving it to a size larger pot. Be careful not to injure the spathe during the transplant process. Also, re-pot young plants which are growing early spring.",
+			"ferilizer" : "Offer this plant a balanced fertilizer every two weeks throughout the spring and summer. During the fall and winter months fertilization to once every month.",
+			"humidity" : "This plant prefers normal air humidity inside the home. During the winter months, you can mist the leaves of the plants to simulate rainfall, which will also improve humidity during the months that artificial heating is used."
+		},
+		"facts": {
+			"origin" : "South Africa",
+			"names" : "Bird of Paradise, Strelitzia, Crane Flower common). Strelitzia Reginae (botanical/scientific).",
+			"growth" : "Height 6ft (can be kept to 3ft indoors).",
+			"poisonous" : "Mildly toxic for cats and dogs"
+		},
+		"image": "./flowers/Strelitzia_Reginae_Flower_img1.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Busy Lizzie",
+		"about": "The Impatiens Walleriana is a favorite within many households within the UK and US, and named busy lizzie in the UK and patient lucy within the US. Grown for their attractive blooms outdoors (just about everywhere) and indoors when given enough bright light and the correct temperatures. Most of these that are widely sold today are walleriana hybrids.",
+		"care" : {
+			"temp" : "Average room temperatures from 65°F/18.3°C - 75°F/23.8°C (not below 60°F/15.5°C).",
+			"light" : "Bright light is key to these blooming and during winter. Direct sun light is be to avoided during the summer.",
+			"watering" : "Keep the soil moist at all times but not soaking wet. During the growing season you will notice they drink a lot",
+			"soil" : "A well draining potting soil mix will suffice.",
+			"repotting" : "Re-pot during spring if the plant has become pot bound, but keep in mind the patient lucy likes plenty of roots in it's pot. When re-potting use a pot slightly bigger than the last one the plant resided in - with plenty of drainage holes",
+			"ferilizer" : "Impatiens walleriana's grow well when fed with a balanced liquid fertilizer during spring and summer. I would say feeding once every 4 weeks is about right.",
+			"humidity" : "Most indoor humidly levels are fine for this plant."
+		},
+		"facts": {
+			"origin" : "East Africa",
+			"names" : "Busy Lizzie and Impatient Lucy (common). -- Impatiens Walleriana (botanical/scientific).",
+			"growth" : "24in (60cm) in height",
+			"poisonous" : "No"
+		},
+		"image": "./flowers/Impatiens-walleriana.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Barberton Daisy",
+		"about": "Native to South Africa this species is a perennial in warmer climates but in cooler countries (temperate regions) it's grown as an annual and flowering pot plant. There are many varieties and hybrids sold that are more compact in growth than the basic type. The basic type has stalks which grow up to 2ft tall that can become quite lanky and unattractive. The attractive bright colored flowers has made Gebera daisies an excellent bridal bouquet choice. For those that prefer to have them closer to their skin - they are also a popular floral tattoo choice.",
+		"care" : {
+			"temp" : "Average temperatures of 55 - 75°F (13 - 24°C) are suitable.",
+			"light" : "A lover of direct sunlight and bright windowsills. Place close to a south, east or west facing window to provide enough sunlight.",
+			"watering" : "It's best to keep the soil moist at all times. Once the soil becomes slightly dry to the touch provide water straight away or the plant will begin to wilt very quickly.",
+			"soil" : "A peat based potting mix with 2 parts peat and 1 part perlite is suggested.",
+			"repotting" : "N/A",
+			"ferilizer" : "While flowering, feed with a balanced liquid fertilizer every 2 weeks.",
+			"humidity" : "Gerbera's quite like above average humidity levels, although average is absolutely fine"
+		},
+		"facts": {
+			"origin" : "South Africa",
+			"names" : "Barberton, Gerbera, Transvaal Daisy (common). -- Gebera Jamesonii (botanical/scientific)",
+			"growth" : "24in tall",
+			"poisonous" : "No"
+		},
+		"image": "./flowers/Impatiens-walleriana.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Blushing Bromeliad",
+		"about": "The blushing bromeliad (Neoregelia carolinae) is part of a large genus of bromeliads and has an interesting way of turning red at it's center when it's about to flower, which is where the common name (blushing) is derived from. The flowers are nothing to shout home about - it's the foliage and the center turning red that's the real attraction.",
+		"care" : {
+			"temp" : "Average to just above average temperatures of 65 - 80ºF (18 - 27ºC) are best suited. Avoid lower than 55ºF (13ºC)",
+			"light" : "A lover of bright light. A combination of some sun and shade provided throughout the day is advised or filtered sun.",
+			"watering" : "Fill the center vase with water - using distilled or rain-sourced water and change it every four to six weeks. The soil needs to be kept slightly moist but not soaked.",
+			"soil" : "A well draining and loose soil mixture is suitable. 1 part peat, 1 part bark and 1 part coarse sand or perlite is one mix which can be used.",
+			"repotting" : "You will only need to re-pot if the container used is no longer large enough. It's worth renewing the soil once a year, but if the soil mix has nutrients added to it - do not feed for the next month or two.",
+			"ferilizer" : "This bromeliad does not need a lot of feeding. Once a month you can add a diluted liquid fertilizer (half the recommended strength on the instructions) to your misting bottle. Over feeding can cause leaf color loss.",
+			"humidity" : "Providing average to above average humidity is advisable. To improve levels during summer or when artificial heating is used, you can mist the leaves, or provide a humidity tray for the plant and it's container to sit on. If you notice the leaves turning brown and dry this could be caused by dry air (lack of humidity)."
+		},
+		"facts": {
+			"origin" : "South America",
+			"names" : "Blushing bromeliad (common). Neoregelia carolinae (botanical/scientific).",
+			"growth" : "Height 18 in/45 cm.",
+			"poisonous" : "No"
+		},
+		"image": "./flowers/blushing_bromeliad1.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Calla Lilly",
+		"about": "Although an outdoor plant by nature, the Calla Lily will perform wonderfully as an indoor plant. Keeping this rhizome happy indoors is a matter of paying attention to some very basic growing conditions. The Zantedeschia aethiopica is native to southern Africa. As such, this plant is used to very different growing conditions than are found naturally in other parts of the world.",
+		"care" : {
+			"temp" : "Average to just above average temperatures of 65 - 80ºF (18 - 27ºC) are best suited. Avoid lower than 55ºF (13ºC)",
+			"light" : "A lover of bright light. A combination of some sun and shade provided throughout the day is advised or filtered sun.",
+			"watering" : "Fill the center vase with water - using distilled or rain-sourced water and change it every four to six weeks. The soil needs to be kept slightly moist but not soaked.",
+			"soil" : "A well draining and loose soil mixture is suitable. 1 part peat, 1 part bark and 1 part coarse sand or perlite is one mix which can be used.",
+			"repotting" : "You will only need to re-pot if the container used is no longer large enough. It's worth renewing the soil once a year, but if the soil mix has nutrients added to it - do not feed for the next month or two.",
+			"ferilizer" : "This bromeliad does not need a lot of feeding. Once a month you can add a diluted liquid fertilizer (half the recommended strength on the instructions) to your misting bottle. Over feeding can cause leaf color loss.",
+			"humidity" : "Providing average to above average humidity is advisable. To improve levels during summer or when artificial heating is used, you can mist the leaves, or provide a humidity tray for the plant and it's container to sit on. If you notice the leaves turning brown and dry this could be caused by dry air (lack of humidity)."
+		},
+		"facts": {
+			"origin" : "South Africa",
+			"names" : "Calla lily (common). -- Zantedeschia aethiopica (botanical/scientific).",
+			"growth" : "3ft (90cm) in height.",
+			"poisonous" : "cats and dogs."
+		},
+		"image": "./flowers/calla-lily.jpg"
+	}
+]
