@@ -169,5 +169,47 @@
 			"poisonous" : "cats and dogs."
 		},
 		"image": "./flowers/calla-lily.jpg"
+	},
+	{
+		"id": 9,
+		"name": "African Violet",
+		"about": "The African violet is one of the most popular flowering house plants from the saintpaulia genus. The genus has about 20 species and thousands of varieties. These have become easier for the average home grower to produce perfect blooms, although they need to be provided with some special care and attention.",
+		"care" : {
+			"temp" : "Room temperatures of around 65°f / 16°c --- 75°f / 24°c are ideal. Try not to allow temperatures to decrease lower than 60°f / 15.5°c and it's advised to avoid cold drafts or abrupt temperature changes.",
+			"light" : "The African violet thrives in bright light, although too much direct sunlight will cause leaf problems (edges turn yellow, patches, or develop holes). I have grown mine, at best - close to east facing windows, but many other people grow them close to the south facing side. Growers will use artificial lighting to encourage blooms during winter time, using fluorescent lighting tubes. However, many of us do not want to use lighting and have the expense when we are happy enough to see the spring and summer blooms.",
+			"watering" : "A big mistake is to over water these or even water them with very cold water. Very cold water prevents growth, causes leaf spots and may cause a change in color. It's best to water them once the soil becomes slightly dry to the touch and water from the top or bottom. Any excess water at the bottom of a pot tray should be removed.",
+			"soil" : "A fast draining soil mix is best to use. I actually use the African V soil mix with 1 part vermiculite because it's cheap enough and easy to find in many stores.",
+			"repotting" : "Re-pot when needed (room temperature not below 70°F./21°C). I would always do this at least once every year, or even twice a year. There is no need to increase the pot size, unless it becomes pot bound or has grown larger.",
+			"ferilizer" : "Fertilize every couple of weeks with a balanced fertilizer that's urea-free. Or even better, a solution specifically for A.violets.",
+			"humidity" : "These need high humidity and plenty of gentle misting (with luke warm water, not in direct sunlight and only the leaves) for healthy growth and to flower well. You can use a humidity tray to support the correct levels that needs to have small pebbles or a layer of gravel at the bottom with water added below the surface."
+		},
+		"facts": {
+			"origin" : "Eastern Africa",
+			"names" : "African violet (common). Saintpaulia (botanical/scientific)",
+			"growth" : "Diameter (micro - 3in) - (large - 16in)",
+			"poisonous" : "No"
+		},
+		"image": "./flowers/african-violet.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Belladonna Lilly",
+		"about": "Growing advice for the Belladonna lily (common name) Amaryllis (genus). Also known as the naked lady because of the bare flower stalks that appear without leaves.",
+		"care" : {
+			"temp" : "Temperatures from 65 - 75F°f (18 - 24°c) are best suited",
+			"light" : "Bright and direct sunlight is advisable. To stand any chance of getting the belladonna lily to flower it's best to have the plant near a south-facing window, where it can get the most hours of sunshine",
+			"watering" : "Keep the soil moist (not soaked) during the growing and flowering period. During the rest period after the leaves have died down, do not water until the stalk appears and then begin watering as normal",
+			"soil" : "You can use equal part perlite and peat or two parts loam soil and one part perlite. Your local garden center may also be able to offer other suitable options. Make sure the bulb is planted within a large plant pot.",
+			"repotting" : "Re-pot in a fairly large pot that gives the plant plenty of room for it's roots. Once every 2 -3 years should be fine",
+			"ferilizer" : "Once the leaves appear you can fertilize with a diluted liquid fertilizer once a month. Do not feed during the rest period and begin again once the stalk appears. Feeding will help belladonna lily plants to flower, however, it's not necessary to do so and it's much better to give less or none at all - than too much",
+			"humidity" : "Normal room humidity is fine"
+		},
+		"facts": {
+			"origin" : "South Africa",
+			"names" : "Belladonna lily, March lily and naked lady. (common). Amaryllis belladonna (botanical/scientific)",
+			"growth" : "Height 24 in/60 cm",
+			"poisonous" : "Cats and Dogs"
+		},
+		"image": "./flowers/belladonna-lilly.jpg"
 	}
 ]
